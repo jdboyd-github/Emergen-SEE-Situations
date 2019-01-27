@@ -4,5 +4,7 @@
 **Daniel Boyd** &lt;jdboyd@unomaha.edu&gt;
 * [GrantMcCarty](https://github.com/GrantMcCarty) -
 **Grant McCarty** &lt;gmccarty@unomaha.edu&gt;
-* [andrasq](https://github.com/andrasq) -
+* [manizha83](https://github.com/manizha83) -
 **Manizha Salomova** &lt;msalomova@unomaha.edu&gt;
+* [Kiro](https://github.com/manizha83) -
+**Kiro** &lt;hanna.kiro@gmail.com&gt;
