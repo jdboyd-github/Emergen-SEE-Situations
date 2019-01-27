@@ -5,3 +5,4 @@
 * [GrantMcCarty](https://github.com/GrantMcCarty) -
 **Grant McCarty** &lt;gmccarty@unomaha.edu&gt;
 * [andrasq](https://github.com/andrasq) -
+**Manizha Salomova** &lt;msalomova@unomaha.edu&gt;
