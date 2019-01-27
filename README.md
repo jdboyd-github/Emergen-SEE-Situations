@@ -20,4 +20,4 @@ width="400"
 * [Manizha Salomova](https://github.com/manizha83) `Chief Operating Officer`
 
 # Communication
-Test
+For more information regarding contact and communication please follow this [link](https://github.com/Emergen-SEE/Emergen-SEE-Situations).
