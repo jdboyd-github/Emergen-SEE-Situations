@@ -10,6 +10,6 @@ Emergen-SEE Situations is a mobile phone app that gives individuals the ability 
 
 # Our Team
 * `Lead Developer` - [Grant McCarty](https://github.com/GrantMcCarty)
-* `Chief Executive Officer` - [Daniel Boyd](https://github.com/jdboyd196)
-* `Chief Financial Officer` - [Kiro](https://github.com/)
-*  `Chief Operating Officer` - [Manizha Salomova](https://github.com/manizha83)
+* `CEO` - [Daniel Boyd](https://github.com/jdboyd196)
+* `CFO` - [Kiro](https://github.com/)
+*  `COO` - [Manizha Salomova](https://github.com/manizha83)
