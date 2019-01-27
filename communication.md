@@ -1,4 +1,4 @@
-### Communication
+# Communication
 
 * [jdboyd196](https://github.com/jdboyd196) -
 **Daniel Boyd** &lt;jdboyd@unomaha.edu&gt;
@@ -7,4 +7,4 @@
 * [manizha83](https://github.com/manizha83) -
 **Manizha Salomova** &lt;msalomova@unomaha.edu&gt;
 * [Kiro](https://github.com/manizha83) -
-**Kiro** &lt;hanna.kiro@gmail.com&gt;
+**Kirolos Hanna** &lt;hanna.kiro@gmail.com&gt;
