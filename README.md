@@ -9,7 +9,7 @@ width="400"
 Emergen-SEE Situations is a mobile phone app that gives individuals the ability to contact help in any given situation. The main objective of this app is to allow its users to be safe at any given time.
 
 # Our Team
-- **Grant McCarty** - Lead Developer
-- **Daniel Boyd** - Chief Executive Officer
-- **Kiro** - Chief Financial Officer
-- **Manizha Salomova** - Chief Operating Officer
+* [Grant McCarty](http://www.dropwizard.io/1.0.2/docs/) - Lead Developer
+* [Daniel Boyd](https://maven.apache.org/) - Chief Executive Officer
+* [Kiro](https://rometools.github.io/rome/) - Chief Financial Officer
+* [Manizha Salomova](https://rometools.github.io/rome/) - Chief Operating Officer
