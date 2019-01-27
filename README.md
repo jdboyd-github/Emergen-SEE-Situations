@@ -5,6 +5,11 @@ width="400"
 />
 </p>
 
+# Table of Contents
+* [Emergen-SEE Situations](#emergen-see-situations)
+* [Our Team](#our-team)
+* [Communication](#communication)
+
 # Emergen-SEE Situations
 [Emergen-SEE Situations](https://github.com/Emergen-SEE) is a mobile phone app that gives individuals the ability to contact help in any given situation. The main objective of this app is to allow its users to be safe at any given time.
 
@@ -13,3 +18,6 @@ width="400"
 * [Grant McCarty](https://github.com/GrantMcCarty) `Lead Developer`
 * [Kiro](https://github.com/) `Chief Financial Officer`
 * [Manizha Salomova](https://github.com/manizha83) `Chief Operating Officer`
+
+# Communication
+Test
