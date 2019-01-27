@@ -8,4 +8,8 @@ width="400"
 # Emergen-SEE Situations
 Emergen-SEE Situations is a mobile phone app that gives individuals the ability to contact help in any given situation. The main objective of this app is to allow its users to be safe at any given time.
 
-Grant McCarty - Software Developer.
+# Our Team
+- Grant McCarty - Software Developer.
+- Daniel Boyd - CEO
+- Kiro - CFO
+- Manizha Salomova - COO
