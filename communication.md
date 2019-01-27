@@ -1,8 +1,7 @@
 ### Communication
 
-**Daniel Boyd** &lt;jdboyd@unomaha.edu&gt;
 * [jdboyd196](https://github.com/jdboyd196) -
-**Anna Henningsen** &lt;anna@addaleax.net&gt; (she/her)
+**Daniel Boyd** &lt;jdboyd@unomaha.edu&gt; (she/her)
 * [ak239](https://github.com/ak239) -
 **Aleksei Koziatinskii** &lt;ak239spb@gmail.com&gt;
 * [andrasq](https://github.com/andrasq) -
