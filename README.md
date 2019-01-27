@@ -16,7 +16,7 @@ width="400"
 # Our Team
 * [Daniel Boyd](https://github.com/jdboyd196) `Chief Executive Officer`
 * [Grant McCarty](https://github.com/GrantMcCarty) `Lead Developer`
-* [Kiro](https://github.com/) `Chief Financial Officer`
+* [Kirolos Hanna](https://github.com/) `Chief Financial Officer`
 * [Manizha Salomova](https://github.com/manizha83) `Chief Operating Officer`
 
 # Communication
