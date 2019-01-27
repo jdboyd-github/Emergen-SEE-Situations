@@ -5,12 +5,12 @@ width="400"
 />
 </p>
 
-# Table of Contents
+## Table of Contents
 * [Emergen-SEE Situations](#emergen-see-situations)
 * [Our Team](#our-team)
 * [Communication](#communication)
 
-# Emergen-SEE Situations
+## Emergen-SEE Situations
 [Emergen-SEE Situations](https://github.com/Emergen-SEE) is a mobile phone app that gives individuals the ability to contact help in any given situation. The main objective of this app is to allow its users to be safe at any given time.
 
 ## Our Team
