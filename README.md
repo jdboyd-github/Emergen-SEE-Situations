@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/GrantMcCarty/Emergen-SEE-Situations/blob/master/Emergen-SEE.jpg"
+<img src="https://github.com/jdboyd196/Emergen-SEE-Situations/blob/master/EmergenSEE-Situations.png"
 alt="Emergen-SEE Situations"
 width="400"
 />
