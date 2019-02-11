@@ -18,8 +18,4 @@ Many doctors require checkups, and make sure to constantly follow up to ensure t
 
 ## Business Overview
 
-For more information regarding our business overview, please follow this [link](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/communication.md).
-
-Everyone has situations that come up that they may not be ready for. Our product ensures that you always have that option that will be able to get you out of it. If you are in an accident, push the button and it will alert the police and/or anyone else you have added to be contacted. Your location will be shared and they will be able to get to you. Even outside of the physical, if you are struggling with depression, we can set you up with a therapist who will be notified that you are struggling and be able to get into contact with you to get you the help you need. If you already have a therapist or someone who can help your mental situation, you can have it set up to notify them. Snowballing off the previous point, our customers will also be the therapists who are looking to help clients out with any problems they have. We work to get our customers in need of help with the right therapist for them and in turn finding the right client for the therapist.
-
- No matter your location, or what potential problems may come up, having the proper means to ensure your safety is always vital. We also implemented the option to choose who is contacted, meaning this product is not tied to one specific situation, allowing different people to use it in different ways.
+For more information regarding our business overview, please follow this [link](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/Business%20Overview.md).
