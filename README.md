@@ -6,7 +6,7 @@ width="800"
 </p>
 
 ## Table of Contents
-* [Home Page](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/communication.md)
+* [Home Page](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/Communication.md)
 * [EmergenSEE Situations](#emergensee-situations)
 * [Our Team](#our-team)
 * [Communication](#communication)
@@ -25,13 +25,13 @@ width="800"
 * [Manizha Salomova](https://github.com/manizha83) `Chief Operating Officer`
 
 ## Communication
-For more information regarding contact and communication please follow this [link](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/communication.md).
+For more information regarding contact and communication please follow this [link](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/Communication.md).
 
 ## Other Resources
 To view all available information about our company, please visit our home page [here](https://github.com/Emergen-SEE/Emergen-SEE-Situations). You may also choose from the different options below.
 
 [`Home`](https://github.com/Emergen-SEE/Emergen-SEE-Situations)
 [`Busniess Overview`](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/Business%20Overview.md)
-[`Communication`](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/communication.md)
+[`Communication`](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/Communication.md)
 [`Customer Segments`](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/Customer%20Segments.md)
 [`Value Propositions`](https://github.com/Emergen-SEE/Emergen-SEE-Situations/blob/master/Value%20Propositions.md)
