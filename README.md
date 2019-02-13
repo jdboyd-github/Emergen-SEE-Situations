@@ -18,6 +18,11 @@ width="600"
 ## EmergenSEE Situations
 [EmergenSEE Situations](https://github.com/Emergen-SEE) is a mobile phone app that gives individuals the ability to contact help in any given situation. The main objective of this app is to allow its users to be safe at any given time.
 
+Download the EmergenSEE App on your Smartphone for more information.
+Available on all devices.
+<img src="https://github.com/jdboyd196/Emergen-SEE-Situations/blob/master/EmergenSEE-Icon.png" width="50" alt="Emergen-SEE Situations Icon" align="left" />
+Follow these links to the [App Store](https://www.apple.com/ios/app-store/) and [Google Play](https://play.google.com/store/apps?hl=en_US).
+
 ## Our Team
 * [Daniel Boyd](https://github.com/jdboyd196) `Chief Executive Officer`
 * [Grant McCarty](https://github.com/GrantMcCarty) `Lead Developer`
