@@ -27,4 +27,4 @@ width="600" /></p>
 
 <br><br>
 <h2 align="center">How to Get Setup with Emergen-SEE</h2>
-<p>Get setup with the Mobile App for on the go help and will allow for the location services so help can find your location or visit to our Get Started page and get the help you need.</p>
+<p>Get setup with the Mobile App for on the go help and will allow for the location services so help can find your location or visit our Get Started page and get the help you need. You can purchase our key FOB at most retail stores and then follow the instructions given with each FOB to get it paired with your device.</p>
