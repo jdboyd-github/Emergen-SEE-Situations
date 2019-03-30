@@ -14,8 +14,10 @@ Grant McCarty Lead Developer
 Kirolos Hanna Chief Financial Officer
 Manizha Salomova Chief Operating Officer</p>
 
+<br><br>
 <h2 align="center">Why Emergen-SEE?</h2>
 <p>With other companies out there with similar business functions, one might ask what do they have that other comapnies don't? What we offer is customization specific to you and your situation. Everybody has problems and our competitors only offer help with specific situations whereas we can help with a myriad of situations. For situations dealing with mental health, we will set you up with a personalized therapist that you can choose based on the criteria that they will list on their profile on Emergen-SEE. We can also get you set up withone of our in-house therapists if you need immediate help. You can use the key FOB to contact your therapist and anyone else you would like so if you are struggling hey wil be immediately notified and they can get you the help you need. If you are in an unsafe area, you are able to use they protable key FOB that will allow you to set up wo you contact and allows those people to find your location so they can know where you are. It does not have to alert the authorities if you don't want it to.</p>
 
+<br><br>
 <h2 align="center">How to Get Setup with Emergen-SEE</h2>
 <p>Get setup with the Mobile App for on the go help and will allow for the location services so help can find your location or visit to our Get Started page and get the help you need.</p>
