@@ -6,3 +6,4 @@ alt="Emergen-SEE Situations"
 width="600"
 />
 </p>
+<p>Here, Therapists can sign up to either become an in-house or offsite therapist able to help those in need.</p>
