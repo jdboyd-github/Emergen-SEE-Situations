@@ -1,7 +1,7 @@
 <h1>Business Partners</h1>
 
 <ul>
-  <li>Phone Comapnies - provide over-the-phone services so our customers are able to get into contact with therapists.</li>
+  <li>Phone Comapnies - provide over-the-phone services so our customers are able to get into contact with therapists(See business partners 2 for more detail).</li>
   
   <li>Therapists - sign up to help customers and are able to set up their specilizations and create a profile regardless of 
       their location since we are helping people across the country and can detect the best therapist for a customer based on location. 
