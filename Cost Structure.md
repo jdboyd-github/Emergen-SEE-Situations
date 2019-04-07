@@ -5,9 +5,10 @@
  <h1>Start-Up Funds</h1>
  
  <ul>
- <li>Database and Server</li>
+ <li>Database and Server</li> costs range from 3,000-5,000 with the initial setup costs around $150 
  <li>Contract for Phone Lines</li>
- <li>In-House Therapist Hiring</li> Can range from 
+ <li>In-House Therapist Hiring</li> Use what is called Contract Counseling “PRN” Practice Model. We will contract therapists who will 
+ essentially bill us for their services so the cost will be determined based on the therapist. 
  </ul>
  
  <br>
