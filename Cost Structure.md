@@ -5,11 +5,9 @@
  <h1>Start-Up Funds</h1>
  
  <ul>
- <li>Purchasing a Headquarters</li>
  <li>Database and Server</li>
  <li>Contract for Phone Lines</li>
- <li>Advertisements</li>
- <li>In-House Therapist Hiring</li>
+ <li>In-House Therapist Hiring</li> Can range from 
  </ul>
  
  <br>
@@ -17,10 +15,13 @@
  <h1>Ongoing Expenses</h1>
  
  <ul>
- <li>Phone Lines and Building Upkeep</li>
- <li>Electricity Costs</li>
- <li>Fundraisers</li>
+ <li>Office Space</li> average of $400 per employee per month
+ <li>Office Furniture and Supplies</li>10% of total budget
+ <li>Phone Lines</li> 
+ <li>Utility Costs</li>About $2 per square foot of total office space
+ <li>Fundraisers</li> 5% of total budget
  <li>Key FOB Production</li>
  <li>Therapist and Phone Company Royalties</li>
- <li>Employee Pay</li>
+ <li>Employee Pay</li> anywhere from 25-50% of total budget
+ <li>Advertisements</li> 5% of total budget
  </ul>
