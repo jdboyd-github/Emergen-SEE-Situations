@@ -8,4 +8,5 @@ and associated revenues. Consider all relevant types of revenue streams for your
 <li>Therapist Counseling</li> Since we contract the therapists and they bill us for our services, we will charge a $75 fee per hour with the therapists as usual rates can range from $75-150. 
 <li>Phone Rates</li> $10 fee per hour for the quick help phone hotline. 
 <li>Key FOB Purchases</li> 
+<li>We also partnering with cellphone providers who would we charge .99 cents a monthyly add on feature for their customers. 
 </ul>
