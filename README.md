@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/jdboyd196/Emergen-SEE-Situations/blob/master/Untitled-2.png"
 alt="Emergen-SEE Situations"
-width="600"
+width="800"
 />
 </p>
 
