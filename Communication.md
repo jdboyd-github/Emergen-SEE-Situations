@@ -6,5 +6,5 @@
 **Grant McCarty** &lt;gmccarty@unomaha.edu&gt;
 * [manizha83](https://github.com/manizha83) -
 **Manizha Salomova** &lt;msalomova@unomaha.edu&gt;
-* [Kiro](https://github.com/manizha83) -
+* [kirohanna](https://github.com/kirohanna) -
 **Kirolos Hanna** &lt;hanna.kiro@gmail.com&gt;
